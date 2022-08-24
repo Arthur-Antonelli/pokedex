@@ -1,0 +1,2 @@
+# pokedex
+ Projetinho em JavaScript
